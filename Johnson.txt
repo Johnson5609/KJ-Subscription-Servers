@@ -1,4 +1,4 @@
-v
+vless://88e9722a-e6cd-cb9d-8e28-6ae7c5877dbb@phr.koroushjavani40.workers.dev:80?path=%2Fkarl&security=none&encryption=none&host=phr.koroushjavani40.workers.dev&type=ws#%F0%9F%9F%A8Public%20Server%F0%9F%87%AB%F0%9F%87%AE%28NHN%3E80%3EDom%29
 vless://88e9722a-e6cd-cb9d-8e28-6ae7c5877dbb@104.18.152.229:80?path=%2Fkarl&security=none&encryption=none&host=phr.koroushjavani40.workers.dev&type=ws#%F0%9F%9F%A7Public%20Server%F0%9F%87%AB%F0%9F%87%AE%28NHN%3E80%3ENum%29
 vless://88e9722a-e6cd-cb9d-8e28-6ae7c5877dbb@104.18.152.229:443?path=%2Fkarl&security=tls&encryption=none&insecure=0&host=phr.koroushjavani40.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=phr.koroushjavani40.workers.dev#%F0%9F%9F%A9Public%20Server%F0%9F%87%AB%F0%9F%87%AE%28NHN%3ETL%3ENum%29
 vless://GEMI@coconut.fps.ms:11121?path=%2Fws%2FGEMI&security=none&alpn=http%2F1.1&encryption=none&host=coconut.fps.ms%3A11121&fp=chrome&type=ws&sni=coconut.fps.ms%3A11121#Gemini%20Special%20WorkThrough%F0%9F%9B%B6
